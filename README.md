@@ -1,2 +1,2 @@
 # robosense-airy96-ros2-fastlio
-基于robisense_airy96线的ros1的fastlio魔改后做了人ros2的适配
+基于robisense_airy96线的ros1的fastlio魔改后做了ros2的适配
